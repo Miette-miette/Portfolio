@@ -8,11 +8,6 @@ body {
     background-color: #93b7d5;
     margin: 0;
 }
-.blocnote{
-    background-image: url('../media/background bloc note.png');
-
-}
-
 section:nth-of-type(2n+1) {
     background-image: url('../media/background-papier-long1.png.');
     background-position: center;
@@ -21,7 +16,6 @@ section:nth-of-type(2n+1) {
     padding: 20px;
     padding-top: 100px;
     background-repeat: no-repeat;
-    /* display: flex; */
     position: relative;
 }
 
